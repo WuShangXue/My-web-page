@@ -708,6 +708,27 @@
   font-style:normal;
   font-size:20px;
 }
+#u19_div.mouseOver {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:248px;
+  height:49px;
+  background:inherit;
+  background-color:rgba(204, 51, 51, 1);
+  border:none;
+  border-radius:20px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'方正兰亭黑简体 Regular', '方正兰亭黑简体';
+  font-weight:400;
+  font-style:normal;
+  font-size:20px;
+}
+#u19.mouseOver {
+}
 #u19_text {
   border-width:0px;
   position:absolute;
@@ -1136,6 +1157,27 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 }
 #u19.a {
 }
+#u19_div.mouseOver.a {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:248px;
+  height:49px;
+  background:inherit;
+  background-color:rgba(204, 51, 51, 1);
+  border:none;
+  border-radius:20px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'方正兰亭黑简体 Regular', '方正兰亭黑简体';
+  font-weight:400;
+  font-style:normal;
+  font-size:20px;
+}
+#u19.a.mouseOver {
+}
 #u19_text.a {
 }
 body.b {  background-color:rgba(255, 255, 255, 1);
@@ -1557,6 +1599,27 @@ body.b {  background-color:rgba(255, 255, 255, 1);
   font-size:20px;
 }
 #u19.b {
+}
+#u19_div.mouseOver.b {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:248px;
+  height:49px;
+  background:inherit;
+  background-color:rgba(204, 51, 51, 1);
+  border:none;
+  border-radius:20px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'方正兰亭黑简体 Regular', '方正兰亭黑简体';
+  font-weight:400;
+  font-style:normal;
+  font-size:20px;
+}
+#u19.b.mouseOver {
 }
 #u19_text.b {
 }
